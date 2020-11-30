@@ -1,4 +1,4 @@
-package com.becarios.pokedex.presentation.details.fragments
+package com.becarios.pokedex.presentation.pokemons
 
 import android.util.Log
 import androidx.lifecycle.MutableLiveData
